@@ -101,6 +101,6 @@ const routes = [
   },
 ];
 
-const router = createBrowserRouter(routes, { basename: '/petly_front' });
+const router = createBrowserRouter(routes, { basename: '/petly_project' });
 
 export default router;
