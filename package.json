@@ -2,7 +2,7 @@
   "name": "pet_team02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AleksanrKotlyar.github.io/petly_front/",
+  "homepage": "https://aleksanrkotlyar.github.io/petly_front/",
   "dependencies": {
     "@react-spring/web": "^9.7.1",
     "@reduxjs/toolkit": "^1.9.3",
